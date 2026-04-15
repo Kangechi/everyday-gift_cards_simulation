@@ -1,4 +1,3 @@
-from tkinter import VERTICAL
 import numpy as np
 
 """
